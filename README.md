@@ -1,0 +1,1 @@
+This repository contains an example of a common, yet easily overlooked, error in HTML and JavaScript. The bug involves a simple typo in the way a JavaScript function attempts to select an HTML element. This results in an error and prevents the intended functionality.  The solution file demonstrates the correct way to select the element.
